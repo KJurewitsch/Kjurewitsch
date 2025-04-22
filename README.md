@@ -1,7 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Kathy! <a href="https://www.linkedin.com/in/kathy-jurewitsch-8a702235a/">Keep in touch the Linkedin!</a>,
+  She/Her
+Currently getting into the feild of IT Helpdesk
+
+
+
+<h2> Network Projects:</h2>
+[Active Directory Project](github.com/Kjurewitsch/networkproject/)
+
+<h2> Certifications:</h2>
+A+ IT Fundamentals
+
+
+<h2> Connect with me:</h2>
+
+[<img align="left" alt="Kathy Jurewitsch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/kathy-jurewitsch-8a702235a/
 
 <!--
-**KJurewitsch/Kjurewitsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kathymadakor1/Kathymadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
