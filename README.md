@@ -5,10 +5,10 @@ Currently getting into the feild of IT Helpdesk
 
 
 <h2> Network Projects:</h2>
-[Active Directory Project](github.com/Kjurewitsch/networkproject/)
+[Active Directory Project](https://www.youtube.com/watch?v=u31qwQUeGuM)
 
 <h2> Certifications:</h2>
-A+ IT Fundamentals
+[COMPTIA IT Fundamentals](https://www.youtube.com/watch?v=u31qwQUeGuM)
 
 
 <h2> Connect with me:</h2>
