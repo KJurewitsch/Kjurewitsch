@@ -7,7 +7,7 @@ learning things
 <br />
 She/Her
 <br />
-Probably a Sociopath
+Likes traditional art, and is more crazy about Music than you are.
 
 <h2> Network Projects:</h2>
 [Active Directory Project](https://github.com/KJurewitsch/Active-Directory-Project/tree/main)
