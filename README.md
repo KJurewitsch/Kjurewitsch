@@ -5,12 +5,12 @@ Currently getting into the feild of IT Helpdesk
 
 
 <h2> Network Projects:</h2>
-[Active Directory Project](https://www.youtube.com/watch?v=u31qwQUeGuM)
+[Active Directory Project](https://github.com/KJurewitsch/Active-Directory-Project/tree/main)
 
 <h2> Certifications:</h2>
-[COMPTIA IT Fundamentals](https://www.youtube.com/watch?v=u31qwQUeGuM)
-
-
+[COMPTIA IT Fundamentals under deadname]
+Forage Mastercard Cybersecurity Certification
+<img src="https://i.imgur.com/SkU3jyv.png"/>
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="Kathy Jurewitsch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
