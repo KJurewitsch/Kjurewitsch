@@ -10,7 +10,7 @@ She/Her
 Likes traditional art, and is more crazy about Music than you are.
 
 <h2> Network Projects:</h2>
-[Active Directory Project](https://github.com/KJurewitsch/Active-Directory-Project/tree/main)
+-[Active Directory Project](https://github.com/KJurewitsch/Active-Directory-Project/tree/main)
 
 <h2> Certifications:</h2>
 [COMPTIA IT Fundamentals Certification under deadname - getting that changed.]
