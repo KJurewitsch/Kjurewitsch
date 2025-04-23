@@ -8,7 +8,8 @@ Currently getting into the feild of IT Helpdesk
 [Active Directory Project](https://github.com/KJurewitsch/Active-Directory-Project/tree/main)
 
 <h2> Certifications:</h2>
-[COMPTIA IT Fundamentals under deadname]
+[COMPTIA IT Fundamentals Certification under deadname - getting that changed.]
+
 Forage Mastercard Cybersecurity Certification
 <img src="https://i.imgur.com/SkU3jyv.png"/>
 <h2> Connect with me:</h2>
