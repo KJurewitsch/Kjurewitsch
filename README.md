@@ -1,8 +1,13 @@
-<h1>Hi, I'm Kathy! <a href="https://www.linkedin.com/in/kathy-jurewitsch-8a702235a/">Keep in touch the Linkedin!</a>,
-  She/Her
-Currently getting into the feild of IT Helpdesk
-
-
+<h1>Hi, I'm Kathy!</h1>
+<a href="https://www.linkedin.com/in/kathy-jurewitsch-8a702235a/">Keep in touch the Linkedin!</a>
+<br />
+Currently getting into the feild of IT, looking for Helpdesk.
+<br />
+learning things
+<br />
+She/Her
+<br />
+Probably a Sociopath
 
 <h2> Network Projects:</h2>
 [Active Directory Project](https://github.com/KJurewitsch/Active-Directory-Project/tree/main)
