@@ -13,8 +13,10 @@ Likes traditional art, and is more crazy about Music than you are.
 -[Active Directory Project](https://github.com/KJurewitsch/Active-Directory-Project/tree/main)
 
 <h2> Certifications:</h2>
-[COMPTIA IT Fundamentals Certification under deadname - getting that changed.]
-
+<br />
+Comptia ITF
+<img src="https://i.imgur.com/0AfuMyv.png"/>
+<br />
 Forage Mastercard Cybersecurity Certification
 <img src="https://i.imgur.com/SkU3jyv.png"/>
 <h2> Connect with me:</h2>
